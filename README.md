@@ -1,17 +1,28 @@
-# Quartz v5
+# 💭 Reflection
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A personal, structured repository of **Computer Science** notes designed for clarity, deep conceptual understanding, and **AI-ready retrieval**—optimized for semantic search and fast LLM indexing.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+---
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## 🎯 Vision & Structure
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+* **AI-Ready Notes:** Formatted with clean heading hierarchies, standardized YAML frontmatter (IDs, tags, types), and structured markdown for clean context retrieval.
+* **Domain Focus:** Computer Science fundamentals, starting with Computer Networks, expanding into DBMS, OS, and Software Engineering.
+* **Evolving Knowledge:** Built as a living digital garden for continuous learning and reference.
 
-## Sponsors
+---
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## 🎨 Visuals & Attributions
+
+Most diagrams in this garden are self-crafted in Microsoft Word to keep documentation simple and structured. A few specific network diagrams (`co-axial.png`, `stp.png`, `utp.png`) are referenced from [GeeksforGeeks](https://www.geeksforgeeks.org/) to accurately illustrate standard cable types.
+
+---
+
+## 🛠️ Commands
+
+```bash
+# Preview locally (http://localhost:8080)
+npx quartz build --serve
+
+# Sync and publish to GitHub Pages
+npx quartz sync
