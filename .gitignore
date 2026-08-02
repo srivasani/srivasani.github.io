@@ -1,4 +1,17 @@
+# Quartz build and cache outputs
+public/
+.quartz-cache/
+node_modules/
 .DS_Store
+Thumbs.db
+
+# Environment and local system files
+.env
+.idea/
+*.log
+
+.prettierignore
+
 .gitignore
 node_modules
 public
@@ -12,4 +25,4 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 ARCHITECTURE.md
-
+.turbo
