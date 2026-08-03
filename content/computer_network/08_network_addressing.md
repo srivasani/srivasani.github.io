@@ -46,7 +46,7 @@ last_updated: 2026-08-01
 
 | S.N. |                    IPv4                    |                     MAC                     |
 | :--- | :---------------------------------------- | :----------------------------------------- |
-| 1    |                  132 bits                  |                   48 bits                   |
+| 1    |                  32 bits                  |                   48 bits                   |
 | 2    |           Represented in Decimal           |                 Hexadecimal                 |
 | 3    | Router needs IP addresses to forward data. | Switch needs MAC addresses to forward data. |
 
@@ -74,7 +74,7 @@ last_updated: 2026-08-01
 
 - IP: Reaching our Network
 - MAC: Reaching the host
-- Reaching to Process
+- Port: Reaching to Process
 
 
 

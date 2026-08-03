@@ -34,3 +34,24 @@ last_updated: 2026-08-01
 - [Framing](../computer_network/framing.md)
 - [Physical Addressing](../computer_network/physical_addressing.md)
 
+#### Data Link Layer Protocols
+
+1. [Ethernet](../computer_network/ethernet.md)
+2. [PPP](../computer_network/ppp.md) (SLIP replaced by PPP)
+3. [HDLC](../computer_network/hdlc.md)
+4. Frame Relay
+ - connection-oriented, Virtual Circuit Packet Switching approach
+ - Variable-Length Framing
+ - flexible payload allocation
+ - non-real-time (bursty) data like LAN-to-LAN traffic
+
+5. ATM
+ - connection-oriented, Virtual Circuit Packet Switching
+ -  Fixed-Size Framing (Cell Relay) where every single unit is strictly 53 bytes long
+ - each cell into a precise allocation of a 5-byte header and a 48-byte payload
+ - real-time data like voice and video conferencing
+
+6. Token Ring
+ - Developed by IBM LAN protocol
+ - Deterministic access
+ - speed 4 mbps to 16 mbps

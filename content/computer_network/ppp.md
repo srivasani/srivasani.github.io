@@ -14,6 +14,7 @@ last_updated: 01/08/2026
 # PPP
 
 - Point-to-Point Protocol
+- Replacement of SLIP (Serial Line Internet Protocol).
 
 - This is WAN protocol (router- router) and which is commonly run over internet links.
 - It is widely used in broadband communications having heavy loads and high speed.
@@ -26,6 +27,12 @@ last_updated: 01/08/2026
 
 - Flag- `01111110`
 - Control- constant value `11111110`
+
+### Utility
+1. Dial-up internet connections
+2. DSL (digital subscriber link) and other serial connections
+
+
 
 
 

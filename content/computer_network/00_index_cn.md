@@ -30,9 +30,9 @@ Welcome to the master index for **Computer Networks**. This note serves as the t
 - [OSI Model](../computer_network/11_osi_model.md)
 - [TCP/IP](../computer_network/12_tcp_ip.md)
 - [Networking Devices](../computer_network/13_networking_devices.md)
-- [Physical Layer](../computer_network/14_physical%20Layer.md)
-- [Dala Link Layer](../computer_network/15_data_link_layer.md)
-- Network Layer (*Onging*)
+- [Physical Layer](../computer_network/14_physical_Layer.md)
+- [Data Link Layer](../computer_network/15_data_link_layer.md)
+- [Network Layer](../computer_network/16_network_layer.md)
 
 
 

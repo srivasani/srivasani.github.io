@@ -31,6 +31,9 @@ last_updated: 01/08/2026
 2. S-Frame: Supervisory (1st two bits `10`)
 3. U-Frame: Un-numbered (1st two bits `11`)
 
+#### Utility
+1. WAN connections
+2. Telecommunication networks
 ---
 ### Bit Stuffing
 - If payload also includes beginning sequence then after (`11111`)’s `0` is stuffed.

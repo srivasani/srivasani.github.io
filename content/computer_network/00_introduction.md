@@ -24,6 +24,12 @@ last_updated: 2026-08-01
 
 - Thar carries information only.
 
+### Why Computer Network
+1. Data Sharing 
+2. Resource Sharing (printer scanner etc)
+3. Efficient Communication (email, video conferencing, instant messaging etc.)
+4. Cost Reduction
+
 
 ### Characteristics of CN
 

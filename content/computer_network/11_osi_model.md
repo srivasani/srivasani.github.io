@@ -45,6 +45,16 @@ last_updated: 2026-08-01
 
 ---
 
+#### Upper Layer
+- It deals with the issues related to the application. It is implemented only in the software.
+-  Both end user and application layer interact with the software application.
+
+#### Lower Layer
+- It manages data transport issues.
+- Data Link Layer and Physical layer are implemented in hardware and software.
+
+---
+
 ### 1.	Application Layer
 
 - It enables the use to access the network resources.
@@ -93,28 +103,28 @@ last_updated: 2026-08-01
     1. Logical Addressing
     2. Routing
 
-### 6.	Data Link Layer
+### 6.	[Data Link Layer](../computer_network/15_data_link_layer.md)
 
 - It is responsible for moving frames from one node to another node.
 
 - Services
-    1. Framing
-    2. Physical Addressing
-    3. Flow Control
-    4. Error Control
-    5. Access Control
+    1. [Framing](../computer_network/framing.md)
+    2. [Physical Addressing](../computer_network/physical_addressing.md)
+    3. [Flow Control](../computer_network/flow_control.md)
+    4. [Error Control](../computer_network/error_control.md)
+    5. [Access Control](../computer_network/multiple_access_protocols.md)
 
-### 7.	Physical Layer
+### 7.	[Physical Layer](../computer_network/14_physical_layer.md)
 
 - It is responsible for transmitting bits over a medium. It also provides electrical & mechanical specifications.
 
 - Services
 
-    1. Physical Characteristics of the media
+    1. [Physical Characteristics of the media](../computer_network/14_physical_layer.md)
     2. Representation of bits
     3. Data Rate
     4. Synchronization of bits
-    5. Line Configuration
-    6. Physical Topology
-    7. Transmission Mode
+    5. [Line Configuration](../computer_network/14_physical_layer.md#line-configuration)
+    6. [Physical Topology](../computer_network/07_network_topology.md)
+    7. [Transmission Mode](../computer_network/01_data_communication.md#data-flow)
 
